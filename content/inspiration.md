@@ -1,4 +1,4 @@
-# Motivation
+# Inspiration
 
 This project started as my attempt to start tracking my pesonal mental models
 and then optimizing as time goes by. I eventually realised that,
