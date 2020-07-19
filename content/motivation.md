@@ -1,0 +1,12 @@
+# Motivation
+
+Developer community have always been collaborating around Q&As ([Stack
+Overflow](www.stackoverflow.com)), stacks ([Stack Share](www.stackshare.io)),
+code and configurations ([Github](www.github.com), [Gitlab](www.gitlab.com),
+etc) but there has always been a lack of collaboration and community around
+mental that folks in the industry deploy for their day to day activities.
+Developer community have always been collaborating around Q&As ([Stack
+Overflow](www.stackoverflow.com)), stacks ([Stack Share](www.stackshare.io)),
+code and configurations ([Github](www.github.com), [Gitlab](www.gitlab.com),
+etc) but there has always been a lack of collaboration and community around
+mental that folks in the industry deploy for their day to day activities.
