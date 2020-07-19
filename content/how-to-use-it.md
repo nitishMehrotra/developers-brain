@@ -1,4 +1,4 @@
-# How to Use It
+# How to Use Developers' Brain
 
 - Browse around the [[Wiki]] to discover mental models around [[People]] or [[Workflows]].
 - Information in each note is meant to give you an explaination and motivate you to explore more.

@@ -9,6 +9,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `workflows.collab - Second Brain 🧠 around building software`,
+    title: `Developers Brain`,
   },
 }

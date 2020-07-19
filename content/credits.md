@@ -1,8 +1,9 @@
 # Credits
 
-> You can read more about the [[motivation]] behind workflow.collab
->
+> You can read more about the [[motivation]] behind Developers' Brain [here](motivation.md)
+
 ---
+
 - Idea Inspiration from:
   - [TS Lim](https://github.com/tslim) and his project [Concepts](https://tslim.github.io/concepts/)
   - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/)
