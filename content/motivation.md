@@ -10,3 +10,13 @@ Overflow](www.stackoverflow.com)), stacks ([Stack Share](www.stackshare.io)),
 code and configurations ([Github](www.github.com), [Gitlab](www.gitlab.com),
 etc) but there has always been a lack of collaboration and community around
 mental that folks in the industry deploy for their day to day activities.
+
+___
+
+Here are few intresting blogs/talks that also motivated the project.
+
+## Videos
+  - https://www.youtube.com/watch?v=xA5U85LSk0M
+
+## Blogs
+  - https://www.learningfromincidents.io/blog/learning-from-incidents-in-software
