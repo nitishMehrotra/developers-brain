@@ -26,6 +26,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Developers Brain 🧠`,
+    title: `🧠 Developers' Brain `,
   },
 }

@@ -1,4 +1,4 @@
-# Developers' Brain 🧠
+# 🧠 Developers' Brain
 
 A living collection of all the mental-models from people in the
 tech industry (developers, SREs, QAs, EMs, etc) use on a day-to-day basis.
