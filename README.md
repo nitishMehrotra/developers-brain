@@ -32,7 +32,7 @@ around People, Tools and their Workflows.
 - Information in each note is meant to give you an explaination and motivate you to explore more.
 - Submit your own mental model either through a
   [PR](https://github.com/nitishMehrotra/developer-brain/pulls) or sending
-  a [DM](https://twiter.com/@Nitish_Mehrotra)
+  a [DM](https://twitter.com/@Nitish_Mehrotra)
 - Share the workflows with your team and the world.
 
 # Motivation
