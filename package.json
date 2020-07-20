@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-digital-garden",
   "private": true,
-  "version": "0.4.4",
+  "version": "0.4.5",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",

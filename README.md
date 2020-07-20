@@ -39,9 +39,10 @@ around People, Tools and their Workflows.
 
 This project was started as an attempt to start tracking my pesonal mental models
 and then optimizing as time passes by. I eventually realised that,
-tech community have always been collaborating around Q&As ([Stack
-Overflow](www.stackoverflow.com)), Stacks ([Stack Share](www.stackshare.io)),
-code and configurations ([Github](www.github.com), etc) but there has always
+tech community have always been collaborating around Q&As
+([StackOverflow](https://www.stackoverflow.com)), Stacks (
+[Stackshare](https://www.stackshare.io)), code and configurations
+([Github](https://www.github.com), etc) but there has always
 been a lack of collaboration and community around mental models that people in
 the industry deploy for their day to day activities.
 
