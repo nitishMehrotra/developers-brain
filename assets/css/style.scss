@@ -1,4 +1,4 @@
-@import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900");
 
 .markdown-body {
   max-width: 800px;
@@ -24,7 +24,9 @@ h2,
 h3,
 h4,
 h5,
-blockquote {
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
-    "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+blockquote,
+p {
+  font-family: "Lato", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif",
+    Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia,
+    serif;
 }
