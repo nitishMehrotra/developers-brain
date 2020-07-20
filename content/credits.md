@@ -4,7 +4,7 @@
 
 ---
 
-- Idea Inspiration from:
+- Source:
   - [TS Lim](https://github.com/tslim) and his project [Concepts](https://tslim.github.io/concepts/)
   - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/foam/)
 - Built using [Foam](https://foambubble.github.io/foam/), personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
