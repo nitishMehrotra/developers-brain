@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-digital-garden",
   "private": true,
-  "version": "0.5.1",
+  "version": "0.5.3",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "gatsby": "^2.21.37",
+    "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-manifest": "^2.4.18",
     "gatsby-plugin-sass": "^2.3.12",
     "gatsby-theme-garden": "^0.1.1",

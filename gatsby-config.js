@@ -24,6 +24,13 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`Nunito Sans`],
+        display: "swap",
+      },
+    },
   ],
   siteMetadata: {
     title: `🧠 Developers' Brain `,
