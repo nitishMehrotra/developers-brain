@@ -65,4 +65,4 @@ patterns we deploy this can serve as a place to cultivate the community brain.
 
 # License
 
-See [License](../LICENSE)
+See [License](https://github.com/nitishMehrotra/developers-brain/blob/main/LICENSE)
