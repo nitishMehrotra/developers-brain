@@ -6,8 +6,8 @@
 
 - Idea Inspiration from:
   - [TS Lim](https://github.com/tslim) and his project [Concepts](https://tslim.github.io/concepts/)
-  - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/)
-- Built using [Foam](https://foambubble.github.io/), personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
+  - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/foam/)
+- Built using [Foam](https://foambubble.github.io/foam/), personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 - Website built using [Gatsby](https://www.gatsbyjs.org/) and
   [gatsby-theme-garden](https://www.gatsbyjs.org/packages/gatsby-theme-garden/) plugin.
 - Website hosted using [Vercel](https://www.vercel.com)
