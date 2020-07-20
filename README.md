@@ -1,4 +1,4 @@
-# Developers' Brain 🧠
+# 🧠 Developers' Brain
 
 A living collection of all the mental-models from people in the
 tech industry (developers, SREs, QAs, EMs, etc) use on a day-to-day basis.
@@ -7,18 +7,18 @@ around People, Tools and their Workflows.
 
 ---
 
-## Table of Contents
+## 📝 Table of Contents
 
-- [Developers' Brain 🧠](#developers-brain-)
-  - [Table of Contents](#table-of-contents)
-- [How to Use A Developers' Brain 🧠](#how-to-use-a-developers-brain-)
-- [Motivation](#motivation)
-- [Credits](#credits)
+- [🧠 Developers' Brain](#-developers-brain)
+  - [📝 Table of Contents](#-table-of-contents)
+- [📜 How to Use It](#-how-to-use-it)
+- [💡 Inspiration](#-inspiration)
+- [💫 Credits](#-credits)
 - [License](#license)
 
 ---
 
-# How to Use A Developers' Brain 🧠
+# 📜 How to Use It
 
 - Browse around the [Wiki](wiki/wiki.md) to discover mental models around
   People, Tools or Workflows. Two way through which you can browse Developers'
@@ -35,13 +35,13 @@ around People, Tools and their Workflows.
   a [DM](https://twitter.com/@Nitish_Mehrotra)
 - Share the workflows with your team and the world.
 
-# Motivation
+# 💡 Inspiration
 
 This project was started as an attempt to start tracking my pesonal mental models
-and then optimizing as time passes by. I eventually realised that,
-tech community have always been collaborating around Q&As
-([StackOverflow](https://www.stackoverflow.com)), Stacks (
-[Stackshare](https://www.stackshare.io)), code and configurations
+and then optimizing as time passes by using
+[Zettelkasten](https://zettelkasten.de/posts/overview/). I eventually realised
+that, tech community have always been collaborating around Q&As
+([StackOverflow](https://www.stackoverflow.com)), Stacks ([Stackshare](https://www.stackshare.io)), code and configurations
 ([Github](https://www.github.com), etc) but there has always
 been a lack of collaboration and community around mental models that people in
 the industry deploy for their day to day activities.
@@ -52,11 +52,11 @@ workflows that a developers uses to achieve an outcome. Hopefully, with the ever
 expanding universe of people who code, tools we use and new workflows and design
 patterns we deploy this can serve as a place to cultivate the community brain.
 
-# Credits
+# 💫 Credits
 
 > You can read more about the motivation behind Developers' Brain [here](motivation.md)
 
-- Idea Inspiration from:
+- Source:
   - [TS Lim](https://github.com/tslim) and his project [Concepts](https://tslim.github.io/concepts/)
   - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/foam)
 - Built using [Foam](https://foambubble.github.io/foam), personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.

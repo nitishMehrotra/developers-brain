@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap");
 
 .markdown-body {
   max-width: 800px;
@@ -26,7 +27,42 @@ h4,
 h5,
 blockquote,
 p {
-  font-family: "Lato", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif",
-    Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia,
-    serif;
+  font-family: "Nunito Sans", Constantia, "Lucida Bright", Lucidabright,
+    "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
+    "Liberation Serif", Georgia, serif;
+}
+
+li {
+  h2 {
+    font-size: 1.5em;
+  }
+  h3 {
+    font-size: 1.17em;
+  }
+  h4 {
+    font-size: 1em;
+  }
+}
+
+blockquote {
+  border-left: 0.25em solid #dfe2e5;
+  color: #6a737d;
+  p {
+    margin: 1em 0em;
+  }
+  padding: 0 1em;
+}
+
+@media only screen and (min-width: 0px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  blockquote,
+  ul,
+  li,
+  p {
+    max-width: calc(100vw - 32px);
+  }
 }

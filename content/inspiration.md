@@ -1,10 +1,10 @@
 # Inspiration
 
 This project was started as an attempt to start tracking my pesonal mental models
-and then optimizing as time passes by. I eventually realised that,
-tech community have always been collaborating around Q&As
-([StackOverflow](https://www.stackoverflow.com)), Stacks (
-[Stackshare](https://www.stackshare.io)), code and configurations
+and then optimizing as time passes by using
+[Zettelkasten](https://zettelkasten.de/posts/overview/). I eventually realised
+that, tech community have always been collaborating around Q&As
+([StackOverflow](https://www.stackoverflow.com)), Stacks ([Stackshare](https://www.stackshare.io)), code and configurations
 ([Github](https://www.github.com), etc) but there has always
 been a lack of collaboration and community around mental models that people in
 the industry deploy for their day to day activities.
@@ -21,8 +21,8 @@ Here are few intresting blogs/talks that also motivated the project.
 
 ## Videos
 
-- https://www.youtube.com/watch?v=xA5U85LSk0M
+- [How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
 
 ## Blogs
 
-- https://www.learningfromincidents.io/blog/learning-from-incidents-in-software
+- [Introduction - Learn From Incidents](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
