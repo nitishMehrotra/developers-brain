@@ -1,4 +1,12 @@
 module.exports = {
+  siteMetadata: {
+    author: `Nitish Mehrotra`,
+    description: `Building a 🧠 Developer's Brain around Community, Tools and their day-to-day workflows`,
+    head: `🧠 Developers Brain - Digital garden of mental models`,
+    image: "assets/icons/icon.png",
+    title: `🧠 Developers Brain - Digital garden of mental models`,
+    twitterUsername: "@Nitish_Mehrotra",
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-sass`,
@@ -6,7 +14,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        icon: `assets/icons/icon.png`, // This path is relative to the root of the site.
+        icon: `assets/icons/icon.png`,
       },
     },
     {
@@ -15,12 +23,12 @@ module.exports = {
         contentPath: `${__dirname}/content`,
         rootNote: `/home`,
         ignore: [
-          "**/.cache/**",
-          "**/.git/**",
-          "**/.vscode/**",
-          "**/assets/**",
-          "**/node_modules/**",
-          "**/public/**",
+          "./.cache/**",
+          "./.git/**",
+          "./.vscode/**",
+          "./assets/**",
+          "./node_modules/**",
+          "./public/**",
         ],
       },
     },
@@ -33,6 +41,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `🧠 Developers' Brain `,
+    title: `🧠 Developers' Brain - Digital garden of mental models`,
   },
 }

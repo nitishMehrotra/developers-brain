@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-digital-garden",
+  "name": "developers-brain",
   "private": true,
   "version": "0.5.3",
   "scripts": {
     "develop": "gatsby develop",
-    "start": "gatsby develop",
+    "start": "gatsby build && gatsby serve -H 0.0.0.0 -p 8000",
     "build": "gatsby build",
     "clean": "gatsby clean"
   },

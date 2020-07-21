@@ -20,7 +20,7 @@ around People, Tools and their Workflows.
 
 # 📜 How to Use It
 
-- Browse around the [Wiki](wiki/wiki.md) to discover mental models around
+- Browse around the [wiki](content/wiki/wiki.md) to discover mental models around
   People, Tools or Workflows. Two way through which you can browse Developers'
   Brain:
   - Check out the hosted version of [Developers Brain
