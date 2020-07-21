@@ -6,6 +6,12 @@ export const onRenderBody = ({
   setBodyAttributes,
 }) => {
   const initProps = {}
-  const element = [React.createElement("title", initProps, "Developers' Brain")]
+  const element = [
+    React.createElement(
+      "title",
+      initProps,
+      "🧠 Developers' Brain - Digital garden of mental models"
+    ),
+  ]
   setHeadComponents([element])
 }

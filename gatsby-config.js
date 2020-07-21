@@ -41,6 +41,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `🧠 Developers' Brain - Digital garden of mental models`,
+    title: `🧠 Developers' Brain`,
   },
 }
