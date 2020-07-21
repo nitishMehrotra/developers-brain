@@ -24,7 +24,7 @@ around People, Tools and their Workflows.
   People, Tools or Workflows. Two way through which you can browse Developers'
   Brain:
   - Check out the hosted version of [Developers Brain
-    🧠](https://devlopers-brain.vercel.app/) on Vercel
+    🧠](https://developers-brain.vercel.app/) on Vercel
   - By cloning the repo to explore the data offline using
     [Foam](https://foambubble.github.io/foam/) and its
     [Graph-Visualisation](https://foambubble.github.io/foam/graph-visualisation)
