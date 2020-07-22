@@ -1,7 +1,7 @@
 {
   "name": "developers-brain",
   "private": true,
-  "version": "0.6.4",
+  "version": "0.6.5",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby build && gatsby serve -H 0.0.0.0 -p 8000",
@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.21.37",
+    "gatsby": "^2.24.9",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-manifest": "^2.4.18",
     "gatsby-plugin-sass": "^2.3.12",
