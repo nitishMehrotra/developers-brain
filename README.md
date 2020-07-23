@@ -74,8 +74,7 @@ Here are few intresting blogs/talks that also motivated the project.
   - [TS Lim](https://github.com/tslim) and his project [Concepts](https://tslim.github.io/concepts/)
   - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/foam)
 - Built using [Foam](https://foambubble.github.io/foam), personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
-- Website built using [Gatsby](https://www.gatsbyjs.org/) and
-  [gatsby-theme-garden](https://www.gatsbyjs.org/packages/gatsby-theme-garden/) plugin.
+- Website built using [Gatsby](https://www.gatsbyjs.org/) and [Mathieu Dutour's](https://twitter.com/mathieudutour) [gatsby-theme-garden](https://www.gatsbyjs.org/packages/gatsby-theme-garden/) plugin.
 - Website published using [Vercel](https://www.vercel.com)
 
 # License
