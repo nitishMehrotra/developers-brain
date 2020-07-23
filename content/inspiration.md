@@ -1,10 +1,12 @@
 # Inspiration
 
-This project was started as an attempt to start tracking my pesonal mental models
-and then optimizing as time passes by using
-[Zettelkasten](https://zettelkasten.de/posts/overview/). I eventually realised
-that, tech community have always been collaborating around Q&As
-([StackOverflow](https://www.stackoverflow.com)), Stacks ([Stackshare](https://www.stackshare.io)), code and configurations
+This project was started as an attempt to start tracking my pesonal mental
+models while I was building Kloudi (https://kloudi.tech/). In an attempt to do
+so I got exposed to [Zettelkasten Method](https://zettelkasten.de/posts/overview/) and
+[Building a Digital Brain](https://tomcritchlow.com/2019/02/17/building-digital-garden/). I
+very quickly realised that, tech community have always been collaborating around Q&As
+([StackOverflow](https://www.stackoverflow.com)), Stacks
+([Stackshare](https://www.stackshare.io)), code and configurations
 ([Github](https://www.github.com), etc) but there has always
 been a lack of collaboration and community around mental models that people in
 the industry deploy for their day to day activities.
