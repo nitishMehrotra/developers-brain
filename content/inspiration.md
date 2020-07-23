@@ -1,7 +1,7 @@
 # Inspiration
 
 This project was started as an attempt to start tracking my pesonal mental
-models while I was building Kloudi (https://kloudi.tech/). In an attempt to do
+models while I was building [Kloudi](https://kloudi.tech/). In an attempt to do
 so I got exposed to [Zettelkasten Method](https://zettelkasten.de/posts/overview/) and
 [Building a Digital Brain](https://tomcritchlow.com/2019/02/17/building-digital-garden/). I
 very quickly realised that, tech community have always been collaborating around Q&As
