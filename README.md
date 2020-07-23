@@ -13,8 +13,8 @@ around People, Tools and their Workflows.
   - [📝 Table of Contents](#-table-of-contents)
 - [📜 How to Use It](#-how-to-use-it)
 - [💡 Inspiration](#-inspiration)
-  - [Videos](#videos)
-  - [Blogs](#blogs)
+- [Videos](#videos)
+- [Blogs](#blogs)
 - [💫 Credits](#-credits)
 - [License](#license)
 
@@ -56,15 +56,13 @@ workflows that a developers uses to achieve an outcome. Hopefully, with the ever
 expanding universe of people who code, tools we use and new workflows and design
 patterns we deploy this can serve as a place to cultivate the community brain.
 
----
-
 Here are few intresting blogs/talks that also motivated the project.
 
-## Videos
+# Videos
 
 - [How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
 
-## Blogs
+# Blogs
 
 - [Introduction - Learn From Incidents](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
 
