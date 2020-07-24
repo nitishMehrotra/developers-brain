@@ -5,6 +5,10 @@ tech industry (developers, SREs, QAs, EMs, etc) use on a day-to-day basis.
 With Developers' Brain the attempt is to build a digital garden of workflows
 around People, Tools and their Workflows.
 
+_🐾This is an early stage project so if you have any suggestions/feedback or
+would want to contribute please DM me on
+[@Nitish_Mehrotra](https://twitter.com/@Nitish_Mehrotra) on Twitter._
+
 ---
 
 ## 📝 Table of Contents
@@ -12,10 +16,11 @@ around People, Tools and their Workflows.
 - [🧠 Developers' Brain](#-developers-brain)
   - [📝 Table of Contents](#-table-of-contents)
 - [📜 How to Use It](#-how-to-use-it)
+- [💫 Credits](#-credits)
+- [🚗 Roadmap](#-roadmap)
 - [💡 Inspiration](#-inspiration)
     - [Videos](#videos)
     - [Blogs](#blogs)
-- [💫 Credits](#-credits)
 - [License](#license)
 
 ---
@@ -35,7 +40,24 @@ around People, Tools and their Workflows.
 - Submit your own mental model either through a
   [PR](https://github.com/nitishMehrotra/developer-brain/pulls) or sending
   a [DM](https://twitter.com/@Nitish_Mehrotra)
+  > We are still working on figuring out the best way to add content from the
+  > community. Refer to the [🚗 Roadmap](#-roadmap) for more info.
 - Share the workflows with your team and the world.
+
+# 💫 Credits
+
+> You can read more about the motivation behind Developers' Brain [here](motivation.md)
+
+- Source:
+  - [TS Lim](https://github.com/tslim) and his project [Concepts](https://tslim.github.io/concepts/)
+  - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/foam)
+- Built using [Foam](https://foambubble.github.io/foam), personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
+- Website built using [Gatsby](https://www.gatsbyjs.org/) and [Mathieu Dutour's](https://twitter.com/mathieudutour) [gatsby-theme-garden](https://www.gatsbyjs.org/packages/gatsby-theme-garden/) plugin.
+- Website published using [Vercel](https://www.vercel.com)
+
+# 🚗 Roadmap
+
+See [Roadmap](https://github.com/nitishMehrotra/developers-brain/blob/main/content/roadmap.md)
 
 # 💡 Inspiration
 
@@ -65,17 +87,6 @@ Here are few intresting blogs/talks that also motivated the project.
 ### Blogs
 
 - [Introduction - Learn From Incidents](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software)
-
-# 💫 Credits
-
-> You can read more about the motivation behind Developers' Brain [here](motivation.md)
-
-- Source:
-  - [TS Lim](https://github.com/tslim) and his project [Concepts](https://tslim.github.io/concepts/)
-  - [Jani Eväkallio](https://twitter.com/jevakallio) and [Foam](https://foambubble.github.io/foam)
-- Built using [Foam](https://foambubble.github.io/foam), personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
-- Website built using [Gatsby](https://www.gatsbyjs.org/) and [Mathieu Dutour's](https://twitter.com/mathieudutour) [gatsby-theme-garden](https://www.gatsbyjs.org/packages/gatsby-theme-garden/) plugin.
-- Website published using [Vercel](https://www.vercel.com)
 
 # License
 

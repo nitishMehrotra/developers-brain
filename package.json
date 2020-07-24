@@ -1,7 +1,7 @@
 {
   "name": "developers-brain",
   "private": true,
-  "version": "0.6.12",
+  "version": "0.6.13",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby build && gatsby serve -H 0.0.0.0 -p 8000",
