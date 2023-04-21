@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.24.9",
+    "gatsby": "^5.9.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-manifest": "^2.4.18",
     "gatsby-plugin-sass": "^2.3.12",
